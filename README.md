@@ -10,10 +10,6 @@
 
 - 🤝 I’m looking for help with [Zomato Restaurant Data Analysis and Cost Prediction](https://github.com/saha-trideep/Zomato-Restaurant-Data-Clustering-Patterns-and-Predicting-Costs.git)
 
-- 💬 Ask me about **Python**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1pCNTWCgk2Ju_Grw4XroGHX2IsQmn33YBoe1lc7MM_u8/edit?usp=sharing](https://docs.google.com/document/d/1pCNTWCgk2Ju_Grw4XroGHX2IsQmn33YBoe1lc7MM_u8/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/trideep saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trideep saha" height="30" width="40" /></a>
