@@ -1,4 +1,3 @@
-<img align="centre" alt="coding" width="1200" height="400" src="https://cosmosmagazine.com/wp-content/uploads/2022/01/AI-and-Humans.jpg">
 <h1 align="center">Hi 👋, I'm Trideep Saha</h1>
 <h3 align="center">A passionate Data Science fellow</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
